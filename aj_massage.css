@@ -1,0 +1,163 @@
+body{
+	background-color: #fdfdfd;
+}
+
+p,
+.appt-info{
+	color: #779787;
+	font-family: 'ZCOOL XiaoWei', serif;
+	font-weight: 300;
+	font-size: 2rem;
+}
+
+.main-page-head{
+  background-image: url('img/main-pic.jpg');
+  background-size: cover;
+  opacity: 0.8;
+}
+
+.main-page-head .display-1{
+	font-family: 'ZCOOL XiaoWei', serif;
+	color: #cda34f;
+  	text-shadow: 2px 2px 4px #000000;
+	font-weight: 400;
+	padding-top: 10%;
+}
+
+.lead,
+.jumbotron p{
+	font-family: 'Philosopher', sans-serif;
+	color: #c4146c;
+}
+
+.main-navbar{
+	background-color: #c4146c;
+	opacity: 0.5;
+}
+
+.main-navbar a{
+	color: #fdfdfd;
+	font-family: 'Philosopher', sans-serif;
+	font-weight: 500;
+}
+
+.nav-link:hover{
+	background-color: none;
+}
+
+.display-4{
+	font-family: 'Cinzel', serif;
+	color: #c4146c;
+}
+
+.card-img-top{
+	height:270px;
+	width: 100%;
+}
+
+.form-control{
+	height: 200px;
+}
+
+.card-title{
+	font-family: 'Cinzel', serif;
+	font-size: 2rem;
+	color: #c4146c;
+}
+
+.card button,
+.review-btn,
+.glyphicon-circle-arrow-up{
+	background-color: #cda34f;
+	font-family: 'Cinzel', serif;
+	font-size: 2rem;
+	font-weight: 600;
+	color: #fdfdfd;
+}
+
+.card button:hover,
+.review-btn:hover,
+.glyphicon-circle-arrow-up:hover{
+	background-color: #ffd700;
+	font-weight: 700;
+	color: #ffffff;
+}
+
+.card a{
+	color: #fdfdfd;
+}
+
+.card a:hover{
+	color: #fdfdfd;
+	font-weight: 800;
+	text-decoration: none;
+}
+
+.special-img:hover{
+    box-shadow: 7px 7px 7px 7px rgba(0, 0, 255, .2);	
+}
+
+/*review-----------------*/
+
+.col h4{
+	font-family: 'ZCOOL XiaoWei', serif;
+	color: #c4146c;
+	font-size: 2rem;
+}
+
+.rating-block h2{
+	color: #cda34f;
+}
+
+.progess-graph small{
+	 color: #779787;
+}
+
+.form-group label{
+	color: #779787;
+	font-family: 'ZCOOL XiaoWei', serif;
+} 
+
+.see-all-link{
+	color: #c4146c;
+}
+
+.see-all-link:hover{
+	font-size: 1.8rem;
+	color: #c4146c;
+	text-decoration: none;
+}
+
+/*footer*/
+
+/*Appointment Page************************************************************************************************************/
+
+.appt-main-nav{
+	background-color: #7be4c2;
+	opacity: 0.5;
+}
+
+.appt-page-head{
+  background-image: url('img/appt-main-pic.jpg');
+  background-size: cover;
+  opacity: 0.8;
+  height: 300px;
+}
+
+.appt-page-head .display-1{
+	color:#c4146c;
+	font-family: 'Philosopher', sans-serif;
+	padding-top: 10%;
+}
+
+.appt-page-head .lead{
+	color: #cda34f;
+}
+
+.appt-info{
+	list-style: none;
+}
+
+.fa-4x{
+	color: #cda34f; 
+}
